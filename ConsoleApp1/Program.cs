@@ -6,9 +6,9 @@ public class Test
     public static void Main()
     {
 
+        //la la la 
 
-
-        //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+        
           // Wczytuję wszystkie liczby wejściowe do listy
         List<int> liczby = new List<int>();
         string? linia;
